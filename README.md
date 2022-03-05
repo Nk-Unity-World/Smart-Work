@@ -18,7 +18,7 @@
 	- To Check Internet connection
 
 - <b>UnityWorld\Assets\Scripts\Mobile-Service</b>
-	- Mobile-Service contains the code for following purpose
+	- Mobile-Service contains the code for following purpose:
 		- Rate Us
 		- Share App
 		- More Games
